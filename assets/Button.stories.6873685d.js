@@ -1,0 +1,2 @@
+import{B as t}from"./Button.35b423fd.js";import"./index.module.8b32bc30.js";import"./index.b310510d.js";import"./iframe.cc2bf04a.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.1e574980.js";const i={title:"Components/Button",component:t,args:{children:"Register Now"},argTypes:{}},m={},a=["Default"];export{m as Default,a as __namedExportsOrder,i as default};
+//# sourceMappingURL=Button.stories.6873685d.js.map
